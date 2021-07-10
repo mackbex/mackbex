@@ -1,15 +1,16 @@
-- 👋 Hi, I’m @mackbex
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Web & Mobile Engineer
 
-<!---
-mackbex/mackbex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    Web & Mobile Engineer with 9 years of experience in IT industry.
+    Have successfully finished many of Major company projects in Korea.
+    (Hyundai, Lotte, SK etc)
 
-Hi, I’m @mackbex
-
+### Purpose  
 this repositry is kind a warehouse that saves what i've contibuted or colloborated projects.
 thanks for visiting.
+
+<div align=center>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hangyulkim/)](https://www.linkedin.com/in/hangyulkim/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mackbex1@gmail.com)](mailto:mackbex1@gmail.com)
+
+</div>
