@@ -4,9 +4,21 @@
     Have successfully finished many of Major company projects in Korea.
     (Hyundai, Lotte, SK etc)
 
+
+#
+
+### Interest
++ Learning new technologies.
++ DevOps.
++ Meditation
+
+#
+
 ### Purpose  
 this repositry is kind a warehouse that saves what i've contibuted or colloborated projects.
 thanks for visiting.
+
+#
 
 <div align=center>
 
