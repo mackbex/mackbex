@@ -9,7 +9,7 @@
 
 ### Interest
 + Learning new technologies.
-+ DevOps.
++ Building an architecture.
 + Meditation
 
 #
