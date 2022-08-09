@@ -2,7 +2,6 @@
 
     Mobile Engineer.
     Have successfully finished many of Major company projects in Korea.
-    (Hyundai, Lotte, SK etc)
 
 
 #
