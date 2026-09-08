@@ -1,22 +1,3 @@
-### Mobile Engineer
-
-    Mobile Engineer.
-    Have successfully finished many of Major company projects in Korea.
-
-
-#
-
-### Interest
-+ Learning new technologies.
-+ Building an architecture.
-+ Meditation
-
-#
-
-### Purpose  
-this repositry is kind a warehouse that saves what i've contibuted or colloborated projects.
-thanks for visiting.
-
 
 감사합니다.
 
